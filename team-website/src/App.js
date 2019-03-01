@@ -18,15 +18,6 @@ class App extends Component {
               <li><a href={'https://www.icloud.com/iclouddrive/0_Vu4YtAcL5h2or_I1wfGH6LQ#Technical_Interview_Prep'}><strong>Download this</strong></a></li>
               <li><a href={'https://docs.google.com/spreadsheets/d/1qXRpoyjYsu7vRAEcyuFDql0GLh8DcCCQyZP83AF4a9M/edit?usp=drive_web&ouid=117691964584408091937'}>Chirag Company Contacts</a></li>
               <li><a href={'https://www.algoexpert.io/questions'}>Pre-paid Algorithm Practice</a></li>
-              <ul>
-                  <li>Username: <strong>pctzetatechteam@gmail.com</strong></li>
-                  <li>Password (hashed): <strong>7ade741cf8d3d58d18142bd6938f87db</strong></li>
-                  <ul>
-                      <li>
-                          Riddle find the hashing algorithm: <strong>I am a doctor who loves hashbrowns and high-fives</strong>
-                      </li>
-                  </ul>
-              </ul>
           </ul>
 
           <h4>Team</h4>
